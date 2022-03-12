@@ -1,0 +1,52 @@
+nav {
+  background-color: lightgray;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.navbar-brand {
+  margin-left: 20px;
+}
+.navbar-toggler-icon {
+  text-align: right;
+}
+.nav-link {
+  text-align: center;
+}
+
+h1 {
+  padding: 20px;
+}
+
+.col-md-12 {
+}
+.col-sm-12 {
+}
+.col-xs-12 {
+  background-color: lightgray;
+  text-align: center;
+  height: 1000px;
+  margin-bottom: 2%;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+#chicken {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 10px;
+}
+#beef {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 10px;
+}
+#sushi {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+p {
+  padding: 10px;
+  font-size: 1.2em;
+}
